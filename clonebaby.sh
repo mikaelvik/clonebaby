@@ -54,7 +54,7 @@ apps=(
   firefox
   spotify
   java
-  sublime-text3
+  sublime-text
   atom
   mailbox
   vlc
